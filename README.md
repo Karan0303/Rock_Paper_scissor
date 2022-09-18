@@ -1,2 +1,2 @@
-# Rock_Paper_scissor
+# Rock_Paper_Scissor
 This is my first program !
